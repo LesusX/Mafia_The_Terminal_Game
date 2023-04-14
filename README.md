@@ -11,6 +11,8 @@ INSTRUCTIONS:
 3) Once the window pops up, maximize it (full screen). If you don't do that the game will crush.
 
 
+
+
 Things You Should Know ABOUT THE GAME - (Based on wikipedia)
 
 * In mafia, there are 2 teams: the mafia and the townspeople. The mafia try to eliminate the townspeople while the townspeople try to guess who’s in the mafia.
